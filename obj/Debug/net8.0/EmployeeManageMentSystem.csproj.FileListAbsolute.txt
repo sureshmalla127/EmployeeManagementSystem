@@ -1,0 +1,14 @@
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\bin\Debug\net8.0\EmployeeManageMentSystem.exe
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\bin\Debug\net8.0\EmployeeManageMentSystem.deps.json
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\bin\Debug\net8.0\EmployeeManageMentSystem.runtimeconfig.json
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\bin\Debug\net8.0\EmployeeManageMentSystem.dll
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\bin\Debug\net8.0\EmployeeManageMentSystem.pdb
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.AssemblyInfoInputs.cache
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.AssemblyInfo.cs
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.dll
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\refint\EmployeeManageMentSystem.dll
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.pdb
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\EmployeeManageMentSystem.genruntimeconfig.cache
+C:\Users\SUREMALL\Desktop\EmployeeManageMentSystem\obj\Debug\net8.0\ref\EmployeeManageMentSystem.dll
